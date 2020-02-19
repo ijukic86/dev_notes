@@ -1,3 +1,4 @@
 # Git notes for dummies
-* `Git add FILENAME` Including file for next commit
-* ` Git commit
+* `git add FILENAME` - Including file for next commit
+* `git commit` - commit the changes
+* `git push` - push the changes
