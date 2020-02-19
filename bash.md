@@ -1,6 +1,6 @@
 # Bash notes for dummies
 
-###Basic commands
+### Basic commands
 * `pwd` - path to working directory
 * `ls` - listing the content of directory
 * `ls -la` - listing content with hidden files as well
